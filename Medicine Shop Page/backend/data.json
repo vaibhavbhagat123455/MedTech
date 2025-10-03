@@ -1,0 +1,172 @@
+[
+  {
+    "_id": "68d0771e02e573ba069eca75",
+    "TextCode": "fZA77F",
+    "BrandName": "High medicine",
+    "Composition": "Paracetamol 500mg",
+    "BatchNumber": "1234",
+    "MDate": "2025-09-23T00:00:00.000+00:00",
+    "EDate": "2027-09-23T00:00:00.000+00:00",
+    "MRP": "20",
+    "Manufacturer": "Vaibhav Pharma",
+    "StorageInstructions": "Store in a cool, dry place",
+    "Precautions": "Not for children under 6 years",
+    "SubTextCode": [
+      { "TextCode": "VK#z@", "Status": "pending", "_id": "sub001" },
+      { "TextCode": "PQ12$", "Status": "used", "_id": "sub002" }
+    ]
+  },
+  {
+    "_id": "68d0771e02e573ba069eca77",
+    "TextCode": "XyP12Q",
+    "BrandName": "ColdCure",
+    "Composition": "Cetirizine 10mg",
+    "BatchNumber": "5678",
+    "MDate": "2024-07-10T00:00:00.000+00:00",
+    "EDate": "2026-07-10T00:00:00.000+00:00",
+    "MRP": "35",
+    "Manufacturer": "Sun Pharma",
+    "StorageInstructions": "Keep away from direct sunlight",
+    "Precautions": "May cause drowsiness",
+    "SubTextCode": [
+      { "TextCode": "AA45!", "Status": "active", "_id": "sub003" },
+      { "TextCode": "BB77?", "Status": "pending", "_id": "sub004" }
+    ]
+  },
+  {
+    "_id": "68d0771e02e573ba069eca78",
+    "TextCode": "MnR89K",
+    "BrandName": "PainRelief",
+    "Composition": "Ibuprofen 400mg",
+    "BatchNumber": "9812",
+    "MDate": "2023-12-01T00:00:00.000+00:00",
+    "EDate": "2026-12-01T00:00:00.000+00:00",
+    "MRP": "50",
+    "Manufacturer": "Cipla",
+    "StorageInstructions": "Do not refrigerate",
+    "Precautions": "Avoid in case of ulcers",
+    "SubTextCode": [
+      { "TextCode": "CC33*", "Status": "active", "_id": "sub005" },
+      { "TextCode": "DD88#", "Status": "expired", "_id": "sub006" }
+    ]
+  },
+  {
+    "_id": "68d0771e02e573ba069eca79",
+    "TextCode": "QwE56T",
+    "BrandName": "Antibiotic-X",
+    "Composition": "Amoxicillin 250mg",
+    "BatchNumber": "4455",
+    "MDate": "2025-01-20T00:00:00.000+00:00",
+    "EDate": "2027-01-20T00:00:00.000+00:00",
+    "MRP": "120",
+    "Manufacturer": "Dr. Reddy’s",
+    "StorageInstructions": "Keep in original package",
+    "Precautions": "Take full course as prescribed",
+    "SubTextCode": [
+      { "TextCode": "EE99@", "Status": "pending", "_id": "sub007" },
+      { "TextCode": "FF66$", "Status": "used", "_id": "sub008" }
+    ]
+  },
+  {
+    "_id": "68d0771e02e573ba069eca80",
+    "TextCode": "ZaX34P",
+    "BrandName": "CoughShield",
+    "Composition": "Dextromethorphan Syrup",
+    "BatchNumber": "7789",
+    "MDate": "2025-03-12T00:00:00.000+00:00",
+    "EDate": "2027-03-12T00:00:00.000+00:00",
+    "MRP": "90",
+    "Manufacturer": "Glenmark",
+    "StorageInstructions": "Shake well before use",
+    "Precautions": "Not for diabetic patients",
+    "SubTextCode": [
+      { "TextCode": "GG55%", "Status": "active", "_id": "sub009" },
+      { "TextCode": "HH22&", "Status": "pending", "_id": "sub010" }
+    ]
+  },
+  {
+    "_id": "68d0771e02e573ba069eca81",
+    "TextCode": "RtY67U",
+    "BrandName": "Vitamin Plus",
+    "Composition": "Multivitamin Tablets",
+    "BatchNumber": "3355",
+    "MDate": "2024-05-14T00:00:00.000+00:00",
+    "EDate": "2026-05-14T00:00:00.000+00:00",
+    "MRP": "150",
+    "Manufacturer": "Abbott",
+    "StorageInstructions": "Store below 25°C",
+    "Precautions": "Do not exceed recommended dose",
+    "SubTextCode": [
+      { "TextCode": "II11^", "Status": "used", "_id": "sub011" },
+      { "TextCode": "JJ44*", "Status": "active", "_id": "sub012" }
+    ]
+  },
+  {
+    "_id": "68d0771e02e573ba069eca82",
+    "TextCode": "UiO90P",
+    "BrandName": "SugarCare",
+    "Composition": "Metformin 500mg",
+    "BatchNumber": "8877",
+    "MDate": "2025-02-05T00:00:00.000+00:00",
+    "EDate": "2027-02-05T00:00:00.000+00:00",
+    "MRP": "60",
+    "Manufacturer": "Torrent Pharma",
+    "StorageInstructions": "Protect from moisture",
+    "Precautions": "Monitor blood sugar regularly",
+    "SubTextCode": [
+      { "TextCode": "KK77!", "Status": "active", "_id": "sub013" },
+      { "TextCode": "LL88?", "Status": "pending", "_id": "sub014" }
+    ]
+  },
+  {
+    "_id": "68d0771e02e573ba069eca83",
+    "TextCode": "BnM45L",
+    "BrandName": "HeartSafe",
+    "Composition": "Aspirin 75mg",
+    "BatchNumber": "6655",
+    "MDate": "2024-09-01T00:00:00.000+00:00",
+    "EDate": "2026-09-01T00:00:00.000+00:00",
+    "MRP": "40",
+    "Manufacturer": "Zydus Cadila",
+    "StorageInstructions": "Keep tightly closed",
+    "Precautions": "Not for children below 12 years",
+    "SubTextCode": [
+      { "TextCode": "MM22$", "Status": "used", "_id": "sub015" },
+      { "TextCode": "NN33#", "Status": "pending", "_id": "sub016" }
+    ]
+  },
+  {
+    "_id": "68d0771e02e573ba069eca84",
+    "TextCode": "HgT32V",
+    "BrandName": "AllerFree",
+    "Composition": "Loratadine 10mg",
+    "BatchNumber": "1122",
+    "MDate": "2025-08-15T00:00:00.000+00:00",
+    "EDate": "2027-08-15T00:00:00.000+00:00",
+    "MRP": "75",
+    "Manufacturer": "Lupin Pharma",
+    "StorageInstructions": "Store in a dry place",
+    "Precautions": "May cause dizziness",
+    "SubTextCode": [
+      { "TextCode": "OO99!", "Status": "active", "_id": "sub017" },
+      { "TextCode": "PP11%", "Status": "pending", "_id": "sub018" }
+    ]
+  },
+  {
+    "_id": "68d0771e02e573ba069eca85",
+    "TextCode": "KlP11Z",
+    "BrandName": "EnergyCap",
+    "Composition": "Iron + Folic Acid Capsules",
+    "BatchNumber": "9922",
+    "MDate": "2023-11-11T00:00:00.000+00:00",
+    "EDate": "2026-11-11T00:00:00.000+00:00",
+    "MRP": "200",
+    "Manufacturer": "Pfizer",
+    "StorageInstructions": "Keep away from heat",
+    "Precautions": "Use under medical supervision",
+    "SubTextCode": [
+      { "TextCode": "QQ22@", "Status": "used", "_id": "sub019" },
+      { "TextCode": "RR55$", "Status": "pending", "_id": "sub020" }
+    ]
+  }
+]

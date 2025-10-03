@@ -1,0 +1,30 @@
+.medical-header {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 2rem 0;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.store-name {
+    font-size: 3rem;
+    font-weight: bold;
+    margin: 0;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.store-tagline {
+    font-size: 1.2rem;
+    opacity: 0.9;
+    margin: 0.5rem 0 0 0;
+}
+
+@media (max-width: 768px) {
+    .store-name {
+        font-size: 2rem;
+    }
+    
+    .store-tagline {
+        font-size: 1rem;
+    }
+}
